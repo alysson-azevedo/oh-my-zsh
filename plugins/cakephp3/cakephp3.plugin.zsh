@@ -36,3 +36,4 @@ compdef _cakephp3 cake
 alias c3='bin/cake'
 alias c3cache='bin/cake orm_cache clear'
 alias c3migrate='bin/cake migrations migrate'
+alias c3sh="bin/cake console"
